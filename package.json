@@ -1,0 +1,22 @@
+{
+  "name": "b2b-wholesale-distributor",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "redux": "^4.1.0",
+    "react-redux": "^7.2.6",
+    "antd": "^4.16.13"
+  },
+  "devDependencies": {
+    "vite": "^2.6.14",
+    "typescript": "^4.4.3",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2"
+  }
+}
